@@ -1,0 +1,53 @@
+[
+    {
+      "usuario": "usuario1",
+      "clave": "claveSegura123",
+      "email": "usuario1@example.com"
+    },
+    {
+      "usuario": "usuario2",
+      "clave": "claveSegura456",
+      "email": "usuario2@example.com"
+    },
+    {
+      "usuario": "usuario3",
+      "clave": "claveSegura789",
+      "email": "usuario3@example.com"
+    },
+    {
+      "usuario": "usuario4",
+      "clave": "claveSegura1011",
+      "email": "usuario4@example.com"
+    },
+    {
+      "usuario": "usuario5",
+      "clave": "claveSegura1213",
+      "email": "usuario5@example.com"
+    },
+    {
+      "usuario": "usuario6",
+      "clave": "claveSegura1415",
+      "email": "usuario6@example.com"
+    },
+    {
+      "usuario": "usuario7",
+      "clave": "claveSegura1617",
+      "email": "usuario7@example.com"
+    },
+    {
+      "usuario": "usuario8",
+      "clave": "claveSegura1819",
+      "email": "usuario8@example.com"
+    },
+    {
+      "usuario": "usuario9",
+      "clave": "claveSegura2021",
+      "email": "usuario9@example.com"
+    },
+    {
+      "usuario": "usuario10",
+      "clave": "claveSegura2223",
+      "email": "usuario10@example.com"
+    }
+  ]
+  
